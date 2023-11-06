@@ -5,7 +5,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @base <urn:webprotege:ontology:92cdab5e-494a-4b5d-80d4-773fd1543848> .
-
 <urn:webprotege:ontology:92cdab5e-494a-4b5d-80d4-773fd1543848> rdf:type owl:Ontology .
 
 #################################################################
